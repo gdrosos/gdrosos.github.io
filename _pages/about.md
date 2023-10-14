@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Direct Doctorate Student in Computer Science, ETH Zurich, Switzerland
 
 profile:
   align: right
@@ -14,13 +14,13 @@ profile:
     <p>Zürich, Switzerland</p>
 
 news: true  # includes a list of news items
-latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I'm a [Direct Doctorate](https://inf.ethz.ch/doctorate/direct-doctorate-computer-science.html) student at the Department of Computer Science at [ETH Zurich](https://ethz.ch/en.html) in Switzerland. I am privileged to be part of the [Advanced Software Technologies](https://ast.ethz.ch/) lab, under the guidance of Prof [Zhendong Su](https://people.inf.ethz.ch/suz/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My academic journey began at the Athens University of Economics and Business, where I earned my Bachelor’s Degree with distinction in 2022 from the [Department of Management Science and Technology](https://www.dept.aueb.gr/en/dmst). Since 2021, I've been a member of the [Business Analytics Laboratory](https://www.balab.aueb.gr/index.html), led by Prof [Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/index.en.html).
+During my involvement with the lab, I also had the opportunity to work as a Research Software Engineer from September 2021 to June 2022 at the [FASTEN Research Project](https://www.fasten-project.eu/view/Main/).
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research interests involve Software Ecosystems, Software Testing, Programming Languages and Program Analysis.
