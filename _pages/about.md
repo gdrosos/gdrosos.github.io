@@ -6,12 +6,12 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: gdrosos.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>CNB H 100.9</p>
+    <p>Universitätstrasse 6, 8092</p>
+    <p>Zürich, Switzerland</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
